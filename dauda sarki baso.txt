@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>My web site</title>
+</head>
+<body>
+<h1>Dauda Sarki Baso CV </h1>
+<h2>Biodata</h2>
+<ol>
+<li>Gender male</li>
+</ol>
+<h2>Education</h2>
+<li>diploma</li>
+<h2>Skills</h2>
+<li>html</li>
+</html>
